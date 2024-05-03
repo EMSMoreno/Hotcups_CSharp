@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qni3TlKcp+JYAIKGQLdf+/NjXStdwBKDWMgqq4rD/fagyJD0cHq2/gxFWrfPqy6b9Rr6SdvZ61LuPJAhbr9fPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo\\OneDrive\\Ambiente de Trabalho\\Hotcups\\Hotcups\\Hotcups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

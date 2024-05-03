@@ -1,0 +1,32 @@
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.exe
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.deps.json
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.runtimeconfig.json
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.dll
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.pdb
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.Form1.resources
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.csproj.GenerateResource.cache
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.AssemblyInfoInputs.cache
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.AssemblyInfo.cs
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.csproj.CoreCompileInputs.cache
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.dll
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\refint\Hotcups.dll
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.pdb
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.genruntimeconfig.cache
+C:\Users\Renildo\source\repos\Hotcups\Hotcups\obj\Debug\net6.0-windows\ref\Hotcups.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.deps.json
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.runtimeconfig.json
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\bin\Debug\net6.0-windows\Hotcups.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.Form1.resources
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.AssemblyInfoInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.AssemblyInfo.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\refint\Hotcups.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\Hotcups.genruntimeconfig.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Hotcups\Hotcups\obj\Debug\net6.0-windows\ref\Hotcups.dll
