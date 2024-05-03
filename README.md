@@ -1,4 +1,4 @@
-Excited to share a collaborative project I've been working on w/ @rrenildopereiraa
+Excited to share a collaborative project I've been working on w/ @rrenildopereiraa.
 Introducing a Beverage Vending Machine Simulator developed in C# w/ Windows Forms.
 
 🔹 Ever wondered how beverage vending machines work behind the scenes? Our simulator provides a peek into the inner workings, allowing end-users to interactively select and receive their favourite hot drinks;
